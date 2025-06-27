@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there, I'm Benjamin Bem
 
-<!--
-**arcanesmile/arcanesmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer
 
-Here are some ideas to get you started:
+👨‍💻 About Me
+Passionate Full Stack Developer specializing in building scalable web applications with clean, efficient code. I bridge the gap between user experience and technical performance, delivering solutions that drive results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Core Strengths:
+✔ Full-stack development (JavaScript, Typescript, Node.js)
+✔ RESTful API design & integration
+✔ Database architecture (NoSQL)
+✔ Agile development & CI/CD pipelines
+✔ Technical leadership & mentoring
+
+🛠️ Technical Stack
+🌐 Frontend Development
+HTML5	CSS3	JavaScript Typescript	Bootstrap
+⚙️ Backend & Databases
+Node.js	Mongodb Firebase 
+🔧 DevOps & Tools
+Git	GitHub Vercel
+
+📊 GitHub Analytics
+Profile Overview
+
+Stats	Languages
+GitHub Stats	Top Languages
+Activity Graph
+
+🌐 Connect With Me
+LinkedIn Instagram Email
+
+📞 Phone: +234 7036750501
+
+Profile Views
+
